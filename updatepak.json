@@ -1,4 +1,6 @@
 {
-  "bypassVersion": 2,
-  "bypassLink": "https://github.com/KeroIsDev/OnlineSystem/releases/download/kero/kero.zip"
+  "bypassVersion": 1,
+  "bypassLink": "https://github.com/KeroIsDev/OnlineSystem/releases/download/kero/kero.zip",
+  "status": "online",
+  "message": "Update Successful"
 }
