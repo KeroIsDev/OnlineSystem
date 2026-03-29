@@ -1,4 +1,7 @@
 {
-  "bypassVersion": 4,
-  "bypassLink": "https://github.com/KeroIsDev/OnlineSystem/releases/download/kero/kero.zip"
+  "version_name": "1.0",
+  "apk_url": "https://your-domain.com/downloads/KERO.apk",
+  "update_title": "تحديث جديد متاح",
+  "update_message": "تم إضافة مميزات جديدة وإصلاح بعض الأخطاء في نسخة BLAZEBOX. يرجى التحديث الآن.",
+  "update_size": "15.5 MB"
 }
